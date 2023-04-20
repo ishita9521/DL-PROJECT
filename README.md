@@ -1,2 +1,2 @@
 # DL-PROJECT
-Image Segmentation using Mask R-CNN with TensorFlow
+Image Segmentation using U-Net architecture
